@@ -1,4 +1,4 @@
-const api = 'http://localhost:5001';
+const api = 'http://localhost:3001';
 
 // Get token from localStorage
 let token = localStorage.token
