@@ -2,7 +2,7 @@
 
 ~~Live demo - https://madbence-readable.herokuapp.com/~~
 
-A CRUD in react from 2018's 4 month Udacity React bootcamp.
+A CRUD in react/redux from 2018's 4 month Udacity React bootcamp.
 
 ![readable.jpg](readable.jpg)
 
