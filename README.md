@@ -1,21 +1,15 @@
-#Udacity React ND 2nd project - Readable
+# Udacity React bootcamp 2nd project - Readable
 
-##Live demo - https://madbence-readable.herokuapp.com/
+~~Live demo - https://madbence-readable.herokuapp.com/~~
 
-##Step One
+A CRUD in react from 2018's 4 month Udacity React bootcamp.
 
-You will need a backend server running to see some data. 
-You should [Download This One](https://github.com/udacity/reactnd-project-readable-starter) just to be sure we are on the same page.. api.
+Archived, depcrecated, Heroku free dynos gone. 6 years old legacy React stuff. Still runs perfectly on localhost with node 16.2.
 
--git clone https://github.com/udacity/reactnd-project-readable-starter.git
--cd api-server
--node server.js
--should be up and running on port:3001 by default :+1:
+## 1
+- backend repo: [Download This One](https://github.com/udacity/reactnd-project-readable-starter).
+- def port:3001 :+1:
 
-##Step Two
-
-Clone the Readable repo and cd into it
--git clone https://github.com/Bembit/udacity-readable.git
--cd udacity-readable
--npm start
--should be up and running on port:3000 by default, or will prompt to use an other port if 3000 is currently taken :+1:
+## 2
+- git clone https://github.com/Bembit/udacity-readable.git
+- def port:3000 :+1:
