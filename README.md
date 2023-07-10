@@ -4,6 +4,9 @@
 
 A CRUD in react from 2018's 4 month Udacity React bootcamp.
 
+![readable.jpg](readable.jpg)
+
+
 Archived, depcrecated, Heroku free dynos gone. 6 years old legacy React stuff. Still runs perfectly on localhost with node 16.2.
 
 ## 1
